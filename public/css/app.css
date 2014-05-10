@@ -1,0 +1,23 @@
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css');
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important
+}
+
+textarea {
+  resize: none;
+  outline: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+}
+
+textarea.assembly {
+  left: 0;
+  width: 70%;
+}
+
+textarea.output {
+  right: 0;
+  width: 30%;
+}

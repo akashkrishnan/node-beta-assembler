@@ -1,0 +1,20 @@
+{
+  "name": "node-beta-assembler",
+  "url": "https://github.com/akashkrishnan/node-beta-assembler",
+  "version": "0.0.0",
+  "description": "node-beta-assembler",
+  "license": "MIT",
+  "author": [
+    {
+      "name": "Akash Krishnan",
+      "email": "ak@aakay.net",
+      "url": "http://aakay.net"
+    }
+  ],
+  "dependencies": {
+    "connect": "latest",
+    "express": "latest",
+    "jade": "latest",
+    "socket.io": "latest"
+  }
+}
