@@ -1,7 +1,5 @@
 var Config = require('./config.js');
-var fs = require('fs');
 var express = require('express');
-var connect = require('connect');
 
 // Configure the server
 var app = express();
