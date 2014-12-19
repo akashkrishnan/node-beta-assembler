@@ -11,7 +11,6 @@ var optable = [
   'ANDC', 'ORC', 'XORC', 'XNORC', 'SHLC', 'SHRC', 'SRAC', null
 ];
 
-
 module.exports = {
   assemble: assemble
 };

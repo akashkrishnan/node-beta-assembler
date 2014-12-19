@@ -4,17 +4,11 @@
   "version": "0.0.0",
   "description": "node-beta-assembler",
   "license": "MIT",
-  "author": [
-    {
-      "name": "Akash Krishnan",
-      "email": "ak@aakay.net",
-      "url": "http://aakay.net"
-    }
-  ],
+  "author": "Akash Krishnan <ak@aakay.net>",
   "dependencies": {
-    "connect": "latest",
-    "express": "latest",
-    "jade": "latest",
-    "socket.io": "latest"
+    "connect": "^3.0.2",
+    "express": "^4.6.1",
+    "jade": "^1.4.2",
+    "socket.io": "^1.0.6"
   }
 }
